@@ -1,3 +1,24 @@
+/*Reset*/
+
 * {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
+}
+
+/*Variables*/
+:root {
+    --main-color: #54B689;
+    --main-text-color: #FFF;
+    --border-color: #999;
+    --bio-bgcolor: #1E2A3A;
+    --bio-border-color: #293544;
+    --about-bg-color: #111821;
+ }
+
+/*General*/
+
+.highlight {
+    color: var(--main-color);
 }
