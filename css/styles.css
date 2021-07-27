@@ -45,6 +45,7 @@
     min-height: 100vh;
     background-color: var(--about-bg-color);
     padding: 50px;
+    text-align: justify;
 }
 #bio-container h2{
     margin-bottom: 25px;
@@ -202,12 +203,12 @@
         margin: 10px auto;
     }
     #about-container {
-        text-align: center;
+        text-align: justify;
         padding: 30px;
         
 
     }
-    #about-conteiner .description {
+    #about-container .description {
         margin: 10p auto; 
         max-width: 100%;
         line-height: 26px;
