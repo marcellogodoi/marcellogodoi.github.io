@@ -198,12 +198,14 @@
         display: none;
     }
     #bio-container p {
-        max-width: 60%;
+        max-width: 80%;
         margin: 10px auto;
     }
     #about-container {
         text-align: center;
         padding: 30px;
+        
+
     }
     #about-conteiner .description {
         margin: 10p auto; 
