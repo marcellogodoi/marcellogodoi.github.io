@@ -170,6 +170,7 @@
     flex: 1 1 33%;
     max-width: 33%;
     margin-bottom: 35px;
+    border-color: #FFF;
 }
 .skill-title {
     font-size: 25px;
